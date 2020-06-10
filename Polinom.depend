@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1544810525 source:c:\users\acer vx\desktop\fax\algoritmi i strukture podataka\projekat 1\main.cpp
+	<iostream>
+	"polinom.h"
+	<vector>
+	<stack>
+
+1545771372 c:\users\acer vx\desktop\fax\algoritmi i strukture podataka\projekat 1\polinom.h
+	<vector>
+	<fstream>
+
+1545777503 source:c:\users\acer vx\desktop\fax\algoritmi i strukture podataka\projekat 1\polinom.cpp
+	<iostream>
+	"polinom.h"
+	<cmath>
+	<algorithm>
+
+1545736771 source:c:\users\user\desktop\polinom (2)\polinom\main.cpp
+	<iostream>
+	"polinom.h"
+	<vector>
+	<stack>
+
+1545737702 c:\users\user\desktop\polinom (2)\polinom\polinom.h
+	<vector>
+	<fstream>
+
+1545739734 source:c:\users\user\desktop\polinom (2)\polinom\polinom.cpp
+	<iostream>
+	"polinom.h"
+	<cmath>
+	<algorithm>
+
+1545753554 source:c:\users\acer vx\desktop\polinom\main.cpp
+	<iostream>
+	"polinom.h"
+	<vector>
+	<stack>
+
+1545755977 c:\users\acer vx\desktop\polinom\polinom.h
+	<vector>
+	<fstream>
+
+1545753935 source:c:\users\acer vx\desktop\polinom\polinom.cpp
+	<iostream>
+	"polinom.h"
+	<cmath>
+	<algorithm>
+
+1545765470 source:c:\users\user\desktop\polinom novi\main.cpp
+	<iostream>
+	"polinom.h"
+	<vector>
+
+1545771372 c:\users\user\desktop\polinom novi\polinom.h
+	<vector>
+	<fstream>
+
+1545765279 source:c:\users\user\desktop\polinom novi\polinom.cpp
+	<iostream>
+	"polinom.h"
+	<cmath>
+	<algorithm>
+
+1545777796 source:d:\stvari\fax\algoritmi i strukture podataka\projekat 1\main.cpp
+	<iostream>
+	"polinom.h"
+	<vector>
+
+1545771372 d:\stvari\fax\algoritmi i strukture podataka\projekat 1\polinom.h
+	<vector>
+	<fstream>
+
+1545777503 source:d:\stvari\fax\algoritmi i strukture podataka\projekat 1\polinom.cpp
+	<iostream>
+	"polinom.h"
+	<cmath>
+	<algorithm>
+
